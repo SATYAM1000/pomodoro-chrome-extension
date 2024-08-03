@@ -1,0 +1,6 @@
+--------chrome extension notes------------
+
+1. manifest.json file: It is simply a JSON file that tells the browser about the chrome extension the user has developed. It contains extension information like name, version, description , icon , permissions, action, etc.
+
+After writing the manifest.json file you need to toggle on the developer mode on chrome extensions. Once the developer mode is switched on , now load your chrome extension.
+
