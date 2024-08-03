@@ -1,0 +1,22 @@
+{
+  "manifest_version": 3,
+  "name": "Pomodoro",
+  "version": "1.0.0",
+  "description": "This chrome extension helps to focus for 25 minutes of time span. After that if you want you can restart to stop the pomodoro timer.",
+  "icons": {
+    "16": "icon.png",
+    "32": "icon.png",
+    "48": "icon.png",
+    "128": "icon.png"
+  },
+  "action": {
+    "default_icon": {
+      "16": "icon.png",
+      "32": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    },
+    "default_title": "Pomodoro - Timer",
+    "default_popup": "./popup/popup.html"
+  }
+}
